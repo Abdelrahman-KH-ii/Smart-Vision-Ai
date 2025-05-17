@@ -1,0 +1,6 @@
+Flask==2.0.1            
+easyocr==1.4.1          
+tensorflow==2.6.0   
+gtts==2.2.3            
+googletrans==4.0.0-rc1  
+opencv-python==4.5.3.56 
